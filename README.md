@@ -3,9 +3,9 @@
 A simple student grade management system developed for COMP2090SEF course project.
 
 ## 👥 Team Members
-- Name1 (Student ID: 12345678)
-- Name2 (Student ID: 23456789)  
-- Name3 (Student ID: 34567890)
+- Chan Kei Yau (Student ID: 13608700)
+- Chan Nga Yi (Student ID: 13881520)
+- Cheung Wing Tung (Student ID: 13879480)
 
 ## Project Description
 This system allows users to manage students, courses, and grades with object-oriented programming concepts.
