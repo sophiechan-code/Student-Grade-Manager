@@ -1,9 +1,0 @@
-
-## OOP Concepts 
-- [ ] Classes and Objects
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Encapsulation
-- [ ] Abstraction
-- [ ] Class methods & static methods
-- [ ] Magic methods
