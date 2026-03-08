@@ -6,7 +6,7 @@ def counting_sort(arr):
     if not arr:
         return []
     
-    
+
     return arr
 
 if __name__ == "__main__":
