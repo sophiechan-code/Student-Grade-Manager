@@ -21,4 +21,9 @@ This system allows users to manage students, courses, and grades with object-ori
 - Python 3.x
 - No external libraries required
 
+
+## Repository Structure
+- [`task1-oop/`](./task1-oop) – OOP application: Student Grade Manager
+- [`task2-selfstudy/`](./task2-selfstudy) – Self‑study: Counter + Counting Sort
+- 
 ## How to Run (Coming Soon)
