@@ -3,7 +3,7 @@ class Counter:
     
     def __init__(self):
         """Initialize empty counter."""
-        self._counts = {}  
+        self._counts = {} 
     
     def add(self, item):
         """Add one to the count of an item."""
